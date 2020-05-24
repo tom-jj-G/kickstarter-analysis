@@ -9,6 +9,6 @@
 ---
 ### Challenge
 
-![Outcomes based on Goal for plays' kickstarter campaigns worldwide.png] (Images/Outcomes%20based%20on%20Goal%20for%20plays'%20kickstarter%20campaigns%20worldwide.png)
+![Outcomes based on Goal for plays' kickstarter campaigns worldwide.png](Images/Outcomes%20based%20on%20Goal%20for%20plays'%20kickstarter%20campaigns%20worldwide.png)
 
 
