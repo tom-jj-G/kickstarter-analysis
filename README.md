@@ -11,7 +11,7 @@
 *Note: in case of display error, cf. image "Outcomes based on Goal for plays' kickstarter campaigns worldwide.png" in the folder Images.*
 ![Outcomes based on Goal for plays' kickstarter campaigns worldwide](Images/Outcomes%20based%20on%20Goal%20for%20plays'%20kickstarter%20campaigns%20worldwide.png)
 
-Based on of our dataset and the chart above, we could assess there is no clear correlation between Goal amount and its outcomes.
+Based on our dataset and the chart above, we could assess there is no clear correlation between Goal amount and its outcomes.
 Nevertheless, we could observe 5 different trends:
 - Until 5 k$, a play is more likely to be successful
 - Between 5 k$ and 20 k$, the odds are almost identical
@@ -32,7 +32,7 @@ In order to enhance our analysis:
 *Note: in case of display error, cf. image "Outcomes based on launch date for theater's kickstarter campaigns worldwide.png" in the folder Images.*
 ![Outcomes based on launch date for theater's kickstarter campaigns worldwide](Images/Outcomes%20based%20on%20launch%20date%20for%20theater's%20kickstarter%20campaigns%20worldwide.png)
 
-Also based on of our dataset and the chart above, we could assess that the months of May, June and July are the best time to launch a theater kick-starter campaign. 
+Also based on our dataset and the chart above, we could assess that the months of May, June and July are the best time to launch a theater kick-starter campaign. 
 The different gap between each outcome line is almost identical expect for these months where the successful rate is higher.
 
 The results should not be considered as flawless:
